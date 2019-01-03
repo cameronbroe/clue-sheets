@@ -1,0 +1,93 @@
+{
+  "who": [
+    {
+      "name": "Nabooru",
+      "state": 0
+    },
+    {
+      "name": "Darunia",
+      "state": 0
+    },
+    {
+      "name": "Zelda",
+      "state": 0
+    },
+    {
+      "name": "Link",
+      "state": 0
+    },
+    {
+      "name": "Rauru",
+      "state": 0
+    },
+    {
+      "name": "Impa",
+      "state": 0
+    }
+  ],
+  "what": [
+    {
+      "name": "Master Sword",
+      "state": 0
+    },
+    {
+      "name": "Fairy Bow",
+      "state": 0
+    },
+    {
+      "name": "Megaton Hammer",
+      "state": 0
+    },
+    {
+      "name": "Boomerang",
+      "state": 0
+    },
+    {
+      "name": "Hookshot",
+      "state": 0
+    },
+    {
+      "name": "Bombchu",
+      "state": 0
+    }
+  ],
+  "where": [
+    {
+      "name": "Death Mountain",
+      "state": 0
+    },
+    {
+      "name": "Kakariko Village",
+      "state": 0
+    },
+    {
+      "name": "Lake Hylia",
+      "state": 0
+    },
+    {
+      "name": "Lost Woods",
+      "state": 0
+    },
+    {
+      "name": "Zora's Domain",
+      "state": 0
+    },
+    {
+      "name": "Gerudo Valley",
+      "state": 0
+    },
+    {
+      "name": "Kokiri Forest",
+      "state": 0
+    },
+    {
+      "name": "Gerudo Fortress",
+      "state": 0
+    },
+    {
+      "name": "Sacred Forest Meadow",
+      "state": 0
+    }
+  ],
+  "notes": ""
+}

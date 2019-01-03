@@ -1,0 +1,9 @@
+{
+  "games": [
+    {
+      "boardId": "zelda",
+      "filename": "games/zelda.json",
+      "name": "The Legend of Zelda CLUE"
+    }
+  ]
+}
